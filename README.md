@@ -9,7 +9,10 @@
 
 <!--adicionar portifolio -->
 <div>
-<a href="https://www.linkedin.com/in/renan-de-jesus-bispo-78a576243" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.instagram.com/nanbispo_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://nanbispo.github.io/portifolio/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Portifolio-9146FF?style=for-the-badge&logo=Word&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato.renanjesusbispo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/renan-de-jesus-bispo-78a576243/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 <div>
