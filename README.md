@@ -1,6 +1,6 @@
 ## Renan Bispo👋
 
-- Atualmente, estudante de tecnlogia em desenvolvimento web 🌐;
+- Atualmente, estudante de tecnlogia em desenvolvimento Mobile 🌐;
 - Expandindo meus aprendizados em JavaScript & Kotlin 👨‍💻;
 - Cursando Analise e desenvolvimento de Sistemas 📖;
 - Salvador/BA 🌴
