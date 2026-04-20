@@ -1,11 +1,11 @@
 ## Renan Bispo👋
 
-- Atualmente, estudante de tecnlogia em desenvolvimento Mobile 🌐;
-- Expandindo meus aprendizados em JavaScript & Kotlin 👨‍💻;
+- Atualmente, estudante de tecnlogia em Full Stack 🌐;
+- Expandindo meus aprendizados em JavaScript & Go 👨‍💻;
 - Cursando Analise e desenvolvimento de Sistemas 📖;
 - Salvador/BA 🌴
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
 <!--adicionar portifolio -->
 <div>
