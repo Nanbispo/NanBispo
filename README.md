@@ -9,18 +9,7 @@
 
 ### Minhas stacks
 
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/React-00ADD8?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postman-FF6400?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sqlserver-323330?style=for-the-badge&logo=sqlserver&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto"/>
-</div>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,javascript,react,golang,python,postgres,docker,git)](https://skillicons.dev)
 
 
 ### Entre em contato comigo:
@@ -28,8 +17,22 @@
 <div>
 <a href="https://www.instagram.com/nanbispo_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/renan-bispo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="mailto:contato.renanjesusbispo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
 
-![Top Languages](https://vani-stats.vercel.app/api?username=Nanbispo&theme=tokyonight)
+
+
+### Status
+
+<div style="display:flex; justify-content:center; gap:0;">
+  <img
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=nanbispo&count_private=true&show_icons=true&theme=jolly&rank_icon=github&border_radius=10"
+    style="width:49%; height:195px; object-fit:contain; display:block; margin-right:4px;"
+  />
+  <img
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nanbispo&hide=HTML&langs_count=8&layout=compact&theme=jolly&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+    style="width:35%; height:195px; object-fit:contain; display:block; margin-left:0;"
+  />
+</div>
