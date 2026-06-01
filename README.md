@@ -3,9 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Back+End+%7C+Salvador+BA;Programador+GO+JavaScript+%26+Java;Apaixonado+por+criar+solu%C3%A7%C3%B5es+inovadoras)](https://git.io/typing-svg)
 
-##### Minha atuação é focada no desenvolvimento back-end, com experiência em Go, Python, PostgreSQL e Docker. Tenho como objetivo principal a construção de APIs escaláveis, de fácil manutenção e a estruturação de consultas otimizadas, garantindo flexibilidade às aplicações. Além disso, possuo conhecimentos em Docker, versionamento de código com Git/GitHub e projetos escritos em ADVPL, o que me confere versatilidade para atuar tanto em projetos legados quanto em novas implementações.
-
-
+#### Minha atuação é focada no desenvolvimento back-end, com experiência em Go, Python, PostgreSQL e Docker. Tenho como objetivo principal a construção de APIs escaláveis, de fácil manutenção e a estruturação de consultas otimizadas, garantindo flexibilidade às aplicações. Além disso, possuo conhecimentos em Docker, versionamento de código com Git/GitHub e projetos escritos em ADVPL, o que me confere versatilidade para atuar tanto em projetos legados quanto em novas implementações.
 
 ### Minhas stacks
 
