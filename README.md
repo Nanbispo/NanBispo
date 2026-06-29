@@ -7,7 +7,7 @@
 
 ### Minhas stacks
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,javascript,react,golang,python,postgres,docker,git)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=javascript,typescript,react,golang,python,postgres,docker,git)](https://skillicons.dev)
 
 
 ### Entre em contato comigo:
