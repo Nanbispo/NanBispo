@@ -3,19 +3,42 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Back+End+%7C+Salvador+BA;Programador+GO+JavaScript+%26+Java;Apaixonado+por+criar+solu%C3%A7%C3%B5es+inovadoras)](https://git.io/typing-svg)
 
-#### Minha atuação é focada no desenvolvimento back-end, com experiência em Go, Python, PostgreSQL e Docker. Tenho como objetivo principal a construção de APIs escaláveis, de fácil manutenção e a estruturação de consultas otimizadas, garantindo flexibilidade às aplicações. Além disso, possuo conhecimentos em Docker, versionamento de código com Git/GitHub e projetos escritos em ADVPL, o que me confere versatilidade para atuar tanto em projetos legados quanto em novas implementações.
+#### Desenvolvedor Back-End focado no ecossistema Go (Golang), com sólida experiência prática na construção de APIs RESTful, modelagem de bancos de dados relacionais e implantação de aplicações em nuvem.
+Atualmente cursando Análise e Desenvolvimento de Sistemas na UCSAL (previsão de formação em 2027), combino conhecimentos de arquitetura de software e DevOps para entregar aplicações performáticas e conteinerizadas de ponta a ponta.
 
-### Minhas stacks
+Stack e Competências Técnicas:
+- Linguagens & Backend: Go (Golang), Python, TypeScript/Node.js, APIs RESTful, Autenticação JWT, CORS.
+- Banco de Dados: PostgreSQL (modelagem, queries e persistência), Supabase.
+- DevOps & Cloud: Docker, Docker Compose, Linux (CLI e administração básica), Google Cloud Platform (GCP).
+- Boas Práticas: Git/GitHub, Arquitetura de Software e Clean Code.
 
-[![SkillIcons](https://skillicons.dev/icons?i=golang,python,java,typescript,react,postgres,docker,postman,gcp,git)](https://skillicons.dev)
+Projetos em Destaque:
+- Oficina do Texto: Backend em Go com autenticação via JWT e controle de CORS.
+- Zoe: Automação para WhatsApp para realizar pré atendimento de pessoas que entrem em contato com instituiçãio religiosa
+Interesse em Arquitetura de Software, automação de processos e integração de soluções inteligentes.
 
+### Minhas stacks:
+#### Back-end 
+![Golang](https://www.shieldcn.dev/badge/-Golang-3178C6.svg?logo=go&variant=branded&size=sm)
+![Python](https://www.shieldcn.dev/badge/-Python-FFDE57.svg?logo=python&variant=branded&size=sm)
+![TypeScript](https://www.shieldcn.dev/badge/-Gin-3178C6.svg?logo=gin&variant=branded&size=sm)
+
+#### Front-end
+![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm)
+![React](https://www.shieldcn.dev/badge/-React-3178C6.svg?logo=react&variant=branded&size=sm)
+
+#### Ferramentas
+![Postgres](https://www.shieldcn.dev/badge/-Postgres-336791.svg?logo=postgresql&variant=branded&size=sm)
+![Docker](https://www.shieldcn.dev/badge/-Docker-1d63ed.svg?logo=docker&variant=branded&size=sm)
+![Postman](https://www.shieldcn.dev/badge/-Postman-ef5b25.svg?logo=postman&variant=branded&size=sm)
+![GCP](https://www.shieldcn.dev/badge/-GCP-60f542.svg?logo=googlecloud&variant=branded&size=sm)
+![Git](https://www.shieldcn.dev/badge/-Git-F1502F.svg?logo=git&variant=branded&size=sm)
 
 ### Entre em contato comigo:
 
-<div>
-<a href="https://www.linkedin.com/in/renan-bispo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="mailto:contato.renanjesusbispo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+[![GitHub](https://www.shieldcn.dev/badge/Linkedin-Renan%20Bispo-3178C6.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/renan-bispo/)
+[![GitHub](https://www.shieldcn.dev/badge/Email-contato.renanjesusbispo@gmail.com-F1502F.svg?logo=email&variant=branded&size=sm)](mailto:contato.renanjesusbispo@gmail.com)
+
 
 
 
