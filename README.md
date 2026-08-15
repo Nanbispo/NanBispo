@@ -20,9 +20,11 @@ Interesse em Arquitetura de Software, automação de processos e integração de
 ### Minhas stacks:
 #### Back-end 
 ![Golang](https://www.shieldcn.dev/badge/-Golang-3178C6.svg?logo=go&variant=branded&size=sm)
+![Gin](https://www.shieldcn.dev/badge/-Gin-3178C6.svg?logo=gin&variant=branded&size=sm)
 ![Python](https://www.shieldcn.dev/badge/-Python-FFDE57.svg?logo=python&variant=branded&size=sm)
-![TypeScript](https://www.shieldcn.dev/badge/-Gin-3178C6.svg?logo=gin&variant=branded&size=sm)
-
+![FastApi](https://www.shieldcn.dev/badge/-FastAPI-3776AB.svg?logo=fastapi&variant=branded&size=sm)
+![Java](https://www.shieldcn.dev/badge/-Java-ef5b25.svg?logo=openjdk&variant=branded&size=sm)
+![Spring](https://www.shieldcn.dev/badge/-Spring-60f542.svg?logo=spring&variant=branded&size=sm)
 #### Front-end
 ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm)
 ![React](https://www.shieldcn.dev/badge/-React-3178C6.svg?logo=react&variant=branded&size=sm)
@@ -31,7 +33,7 @@ Interesse em Arquitetura de Software, automação de processos e integração de
 ![Postgres](https://www.shieldcn.dev/badge/-Postgres-336791.svg?logo=postgresql&variant=branded&size=sm)
 ![Docker](https://www.shieldcn.dev/badge/-Docker-1d63ed.svg?logo=docker&variant=branded&size=sm)
 ![Postman](https://www.shieldcn.dev/badge/-Postman-ef5b25.svg?logo=postman&variant=branded&size=sm)
-![GCP](https://www.shieldcn.dev/badge/-GCP-60f542.svg?logo=googlecloud&variant=branded&size=sm)
+![GCP](https://www.shieldcn.dev/badge/-GCP-3776AB.svg?logo=googlecloud&variant=branded&size=sm)
 ![Git](https://www.shieldcn.dev/badge/-Git-F1502F.svg?logo=git&variant=branded&size=sm)
 
 ### Entre em contato comigo:
