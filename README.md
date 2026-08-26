@@ -1,5 +1,5 @@
 # Olá, me chamo Renan Bispo👋
-## Desenvolvedor Back-end | • Go • Python • Postgres • Docker
+## Desenvolvedor Back-end | • Go • Java • Python • Postgres • Docker • GCP 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Back+End+%7C+Salvador+BA;Programador+GO+JavaScript+%26+Java;Apaixonado+por+criar+solu%C3%A7%C3%B5es+inovadoras)](https://git.io/typing-svg)
 
