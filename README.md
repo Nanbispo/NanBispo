@@ -1,7 +1,7 @@
 # Olá, me chamo Renan Bispo👋
-## Desenvolvedor Back-end | • Go • Java • Python • Postgres • Docker • GCP 
+## Desenvolvedor Back-end | • Go • Python • Node • Postgres • Docker • GCP 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Back+End+%7C+Salvador+BA;Programador+GO+JavaScript+%26+Java;Apaixonado+por+criar+solu%C3%A7%C3%B5es+inovadoras)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Back+End+%7C+Salvador+BA;Programador+GO+Python+%26+Node;Apaixonado+por+criar+solu%C3%A7%C3%B5es+inovadoras)](https://git.io/typing-svg)
 
 #### Desenvolvedor Back-End focado no ecossistema Go (Golang), com sólida experiência prática na construção de APIs RESTful, modelagem de bancos de dados relacionais e implantação de aplicações em nuvem.
 Atualmente cursando Análise e Desenvolvimento de Sistemas na UCSAL (previsão de formação em 2027), combino conhecimentos de arquitetura de software e DevOps para entregar aplicações performáticas e conteinerizadas de ponta a ponta.
@@ -22,9 +22,9 @@ Interesse em Arquitetura de Software, automação de processos e integração de
 ![Golang](https://www.shieldcn.dev/badge/-Golang-3178C6.svg?logo=go&variant=branded&size=sm)
 ![Gin](https://www.shieldcn.dev/badge/-Gin-3178C6.svg?logo=gin&variant=branded&size=sm)
 ![Python](https://www.shieldcn.dev/badge/-Python-FFDE57.svg?logo=python&variant=branded&size=sm)
+![Nodejs](https://www.shieldcn.dev/badge/-Node-339933.svg?logo=javascript&variant=branded&size=sm)
 ![FastApi](https://www.shieldcn.dev/badge/-FastAPI-3776AB.svg?logo=fastapi&variant=branded&size=sm)
-![Java](https://www.shieldcn.dev/badge/-Java-ef5b25.svg?logo=openjdk&variant=branded&size=sm)
-![Spring](https://www.shieldcn.dev/badge/-Spring-60f542.svg?logo=spring&variant=branded&size=sm)
+
 #### Front-end
 ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm)
 ![React](https://www.shieldcn.dev/badge/-React-3178C6.svg?logo=react&variant=branded&size=sm)
